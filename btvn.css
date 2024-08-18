@@ -1,0 +1,303 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+.dau_tien{
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left: 0;
+    right: 0; 
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(225, 213, 213);
+    
+}
+
+.logoo {
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 80px;
+}
+
+.logooo {
+    margin-top: 10px;
+    margin-left: 10px;
+    max-width: 12px;
+}
+
+.ten {
+    display: flex;
+}
+
+.tenn {
+    margin-top: 23px;
+    padding: 10px;
+}
+.tenn:hover {
+    color: #888888;
+}
+.gach {
+    margin-top: 25px;
+}
+
+.gach:hover {
+    color: white;
+}
+
+
+
+.login {
+    display: flex;
+    background-color:#9f9494;
+}
+
+.loginn {
+    border: 2px solid black;
+    background-color: gray;
+    color: white;
+    width: 95px;
+    height: 40px;
+    border-radius: 4px;
+    margin: 14px 20px 0 122px;
+}
+
+.loginn:hover,.register:hover {
+    background-color: black;
+    color: pink;
+}
+.register{
+    border: 2px solid black;
+    background-color: gray;
+    color: white;
+    margin-top: 14px;
+    width: 90px;
+    height: 40px;
+    border-radius: 4px; 
+}
+
+.cach {
+    margin-left: 800px;
+    margin-top: 30px;
+}
+
+.hinh {
+    width: 80px;
+    margin-top: 28px;
+}
+
+.anh {
+    margin-top: 20px;
+    height: 560px;
+}
+
+.chon {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.chonn {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.chu {
+    margin-top: 10px;
+    width: 130px;
+    height: 50px;
+    border: 3px solid gray;
+}
+
+.net {
+    color: gray;
+    margin-top: 20px;
+}
+
+.all2 {
+    display: flex;
+    padding-top: 20px;
+    margin-left: 3px;
+}
+
+.ao {
+    max-width: 300px;
+    max-height: 275px;
+}
+
+.mau_1 {
+    margin: 10px;
+    box-shadow: 1px 1px 1px 1px #888888;
+    margin: 10px 15px;
+    overflow: hidden;
+    transition: transform 0.25s;
+}
+.mau_1:hover {
+    transform: scale(1.05);
+}
+
+.mau_2 {
+    box-shadow: 1px 1px 1px 1px #888888;
+    margin: 10px 20px;
+    overflow: hidden;
+    transition: transform 0.25s;
+}
+
+.aoo {
+    width: 250px;
+    height: 260px;
+    margin: 0 0 20px 0px;
+
+}
+
+.mau_2:hover {
+    transform: scale(1.05);
+}
+
+.giua {
+    text-align: center;
+    max-width: 95%;
+}
+.giua:hover{
+    color: darkblue;
+}
+
+
+.all1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.muc {
+    display: flex;
+}
+
+.muc1 {
+    border: 2px solid gray;
+    width: 230px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.chonn {
+    margin-top: 28px;
+    color: gray;
+}
+
+.chu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.xem {
+    margin-top: 34px;
+    margin-left: 15px;
+    color: red;
+    font-weight: bold;
+}
+
+.xem:hover {
+    color: black;
+}
+
+.tuyen {
+    display: flex;
+}
+
+.no1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 190px;
+    height: 35px;
+    margin: 30px 10px 15px 10px;
+    border: 2px solid gray;
+    color: #888888;
+    border-radius: 10px;
+}
+
+.end {
+    display: flex;
+    align-items: center;
+    margin-left: 180px;
+}
+
+.Loi {
+    font-size: 20px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 2px solid gray;
+    padding-top: 22px;
+}
+
+.loi_ich {
+    display: flex;
+    justify-content: center;
+
+}
+
+.m_1 {
+    box-shadow: 1px 1px 1px 1px #888888;
+    padding: 0 20px;
+    padding-top: 10px;
+    margin: 0 15px;
+}
+
+.nd {
+    text-align: center;
+}
+
+footer {
+    margin-top: 20px;
+    width: 100%;
+    height: 850px;
+    background-color: rgb(31, 28, 28);
+}
+
+.footer_tat_ca {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.picture_footer {
+    margin-left: 80px;
+    width: 180px;
+    height: 150px;
+}
+
+.color {
+    font-size: 20px;
+    color: white;
+}
+
+.color:hover {
+    color: red;
+}
+
+.cot1 {
+    max-width: 23%;
+    margin: 15px 0px 15px 0px;
+}
+
+.ban_do {
+    margin-top: 20px;
+  width: 218px;
+  height: 200px;
+}
+.nd_cot1 li{
+    margin: 10px 0px ;
+}
+

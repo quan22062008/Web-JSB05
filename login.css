@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://anhdepfree.com/wp-content/uploads/2020/04/anh-nen-mau-tim.jpg');
+}
+.picture{
+    width: 1450px;
+   height: 700px;
+}
+.all_login{
+    width: 500px;
+    height: 700px;
+    border: 2px solid black;
+    margin-left: 550px;
+    margin-top: 25px;
+    background-color: white;
+}
+.top{
+    text-align: center;
+}
+.logo{
+    max-width: 220px;
+    max-height: 220px;
+    
+}
+.login{
+    height: 30px;
+    width: 450px;
+    margin-left: 20px;
+    border-radius: 4px;
+}
+.nut{
+border: 2px solid black;
+background-color: rgb(188, 111, 221);
+color: white;
+width: 95px;
+height: 40px;
+border-radius: 4px;
+margin: 30px 0 0 200px;
+}
+.nut:hover{
+    background-color: aqua;
+    color: black;
+}
+.cach{
+    margin-left: 20px;
+}
+
+
+
+
+
